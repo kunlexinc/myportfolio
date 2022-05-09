@@ -7,28 +7,26 @@ import img3 from "../../assets/img13.JPG";
 import img4 from "../../assets/img14.JPG";
 import img5 from "../../assets/img15.JPG";
 
-
-
 const data = [
   {
     id: 1,
     image: img2,
     title: "Kwaralive App",
-    github: "https//www.github.com",
+    github: "https//www.github.com/",
     demo: "https://play.google.com/store/apps/details?id=com.kwaralive.app",
   },
   {
     id: 2,
     image: img3,
     title: "Platform Homes",
-    github: "https//www.github.com",
+    github: "https//www.github.com/",
     demo: "https://platformleads.com",
   },
   {
     id: 3,
     image: img4,
     title: "OAP TV App",
-    github: "https//www.github.com",
+    github: "https//www.github.com/",
     demo: "https://opeyemiakintundetv.com",
   },
   {
